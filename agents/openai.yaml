@@ -1,0 +1,6 @@
+interface:
+  display_name: "Script Development"
+  short_description: "Build documented, testable scripts with safe recovery"
+  default_prompt: "Use $script-development to create a maintainable script package with its matching operation manual and any required recovery artifacts."
+policy:
+  allow_implicit_invocation: true
